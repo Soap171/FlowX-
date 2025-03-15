@@ -65,7 +65,6 @@ function Navbar() {
               {[
                 { id: "hero", label: "HOME" },
                 { id: "real-time-flood-analysis", label: "FLOOD UPDATES" },
-                { id: "flood-impact-prediction", label: "PREDICTIONS" },
                 { id: "services", label: "SERVICES" },
                 { id: "about-us", label: "ABOUT US" },
                 { id: "contact", label: "CONTACT" },
@@ -141,7 +140,6 @@ function Navbar() {
           {[
             { id: "hero", label: "HOME" },
             { id: "real-time-flood-analysis", label: "FLOOD UPDATES" },
-            { id: "flood-impact-prediction", label: "PREDICTIONS" },
             { id: "services", label: "SERVICES" },
             { id: "about-us", label: "ABOUT US" },
             { id: "contact", label: "CONTACT" },
